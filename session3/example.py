@@ -1,0 +1,5 @@
+item1 = "Gà quay"
+item2 = "Thịt Thầy "
+item3 = "Thịt Đức "
+item4 = "Thịt chó"
+item5 = "Bún Đậu"
