@@ -1,6 +1,6 @@
 from turtle import *
 shape("turtle")
-# speed(0)
+
 color("blue")
 for i in range(3):
     forward(50)
