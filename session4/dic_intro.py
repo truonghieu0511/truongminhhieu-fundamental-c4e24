@@ -13,9 +13,13 @@ person = {
     "city": "Hai Phong",
     "age": 25
 }
-print(person["name"])
-# print("status" in person)
-if "status" in person:
-    print("yes")
-else:
-    print("no")
+del person["city"]
+print(person)
+# person["age"]=18
+# print(person)
+# print(person["name"])
+# print(person["age"])
+# person["age"] += 1
+# print(person["age"])
+# person["status"] = False
+# print(person)
